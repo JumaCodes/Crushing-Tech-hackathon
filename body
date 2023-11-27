@@ -1,0 +1,175 @@
+
+            <div class="section__two sections">
+              <div class="column">
+                <div class="title__row">
+                  <div class="title__image" onclick="toggleImage(this)">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="24"
+                         height="24"
+                         viewBox="0 0 32 32"
+                         fill="none">
+                      <circle cx="16"
+                              cy="16"
+                              r="12"
+                              stroke="#8A8A8A"
+                              stroke-width="2.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-dasharray="4 6"
+                              class="display__image" />
+                    </svg>
+                  </div>
+                  <div class="title__ind">Add your first product</div>
+                </div>
+
+                <div class="section__hide">
+                  <p class="section__hideInfo">Choose
+                    Write a description, add photos, and set pricing for the
+                    products you plan to sell.
+                    <button class="primary__btn">Learn more</button>
+                  </p>
+                  <div class="row__btn">
+                    <button class="customize__themeBtn">
+                      <span>Add product</span>
+                    </button>
+                    <button class="import__btn">
+                      <span>Import
+                        product</span>
+                    </button>
+                  </div>
+                </div>
+
+              </div>
+
+              <div class="sectionRight__image">
+                <img src="https://crushingit.tech/hackathon-assets/product.png"
+                     alt="Asset">
+              </div>
+            </div>
+
+            <div class="section__three sections">
+              <div class="column">
+                <div class="title__row"  onclick="toggleImage(this)">
+                  <div class="title__image">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="24"
+                         height="24"
+                         viewBox="0 0 32 32"
+                         fill="none">
+                      <circle cx="16"
+                              cy="16"
+                              r="12"
+                              stroke="#8A8A8A"
+                              stroke-width="2.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-dasharray="4 6"
+                              class="display__image" />
+                    </svg>
+                  </div>
+                  <div class="title__ind">Add a custom domain</div>
+                </div>
+
+                <div class="section__hide">
+                  <p class="section__hideInfo">Your current domain is
+                    222219.myshopify.com but you can add a custom domain to
+                    help customers find your online store
+                    <button class="primary__btn">Learn more</button>
+                  </p>
+                  <button class="customize__themeBtn marginTop">
+                    <span>Add domain</span>
+                  </button>
+                </div>
+
+              </div>
+
+              <div class="sectionRight__image">
+                <img src="https://crushingit.tech/hackathon-assets/website.png"
+                     alt="Asset">
+              </div>
+            </div>
+
+            <div class="section__four sections">
+              <div class="column">
+                <div class="title__row"  onclick="toggleImage(this)">
+                  <div class="title__image">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="24"
+                         height="24"
+                         viewBox="0 0 32 32"
+                         fill="none">
+                      <circle cx="16"
+                              cy="16"
+                              r="12"
+                              stroke="#8A8A8A"
+                              stroke-width="2.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-dasharray="4 6"
+                              class="display__image" />
+                    </svg>
+                  </div>
+                  <div class="title__ind">Name your store</div>
+                </div>
+
+                <div class="section__hide">
+                  <p class="section__hideInfo">Your temporary store name is
+                    currently Davii collections. The store name appears in
+                    your admin and your online store.
+                    <button class="primary__btn">Learn more</button>
+                  </p>
+                  <button class="customize__themeBtn marginTop">
+                    <span>Name store</span>
+                  </button>
+                </div>
+
+              </div>
+
+              <div class="sectionRight__image">
+                <img src="https://crushingit.tech/hackathon-assets/name-store.png"
+                     alt="Asset">
+              </div>
+            </div>
+
+            <div class="section__five sections">
+              <div class="column">
+                <div class="title__row"  onclick="toggleImage(this)">
+                  <div class="title__image">
+                    <svg xmlns="http://www.w3.org/2000/svg"
+                         width="24"
+                         height="24"
+                         viewBox="0 0 32 32"
+                         fill="none">
+                      <circle cx="16"
+                              cy="16"
+                              r="12"
+                              stroke="#8A8A8A"
+                              stroke-width="2.5"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-dasharray="4 6"
+                              class="display__image" />
+                    </svg>
+                  </div>
+                  <div class="title__ind">Set up a payment provider</div>
+                </div>
+
+                <div class="section__hide">
+                  <p class="section__hideInfo">Choose a payment provider to
+                    start accepting payments. You’ll need to create an account
+                    with the payment provider and set it up with your Shopify
+                    store.
+                    <button class="primary__btn">Learn more</button>
+                  </p>
+                  <button class="customize__themeBtn marginTop">
+                    <span>Set up payment</span>
+                  </button>
+                </div>
+
+              </div>
+
+              <div class="sectionRight__image">
+                <img src="https://crushingit.tech/hackathon-assets/payment.png"
+                     alt="Asset">
+              </div>
+            </div>
